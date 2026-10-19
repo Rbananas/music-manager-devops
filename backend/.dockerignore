@@ -1,0 +1,5 @@
+node_modules
+uploads
+coverage
+.env
+npm-debug.log
