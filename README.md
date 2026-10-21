@@ -1,6 +1,6 @@
 # Music Manager
 
-Music Manager is a college DevOps mini-project: a private, Spotify-inspired music library built with React, Vite, Express, MongoDB, and Docker Compose. Each account has its own uploaded tracks and playlists. It includes automated tests, CI, Prometheus metrics, and a provisioned Grafana dashboard.
+Music Manager is a college DevOps mini-project: a private, Spotify-inspired music library built with React, Vite, Express, MongoDB, and Docker Compose. Each account has its own uploaded tracks and playlists. It includes automated tests, CI, Prometheus metrics, and a provisioned Grafana dashboard. We have made this.
 
 ## Features
 
